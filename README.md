@@ -2,7 +2,7 @@ Contains test code to reproduce the S3 RMT issue with FastLED.
 
 See issue https://github.com/FastLED/FastLED/pull/1652
 
-**this codebase now tests the fix in the fastled branch, see https://github.com/FastLED/FastLED/tree/fix-esp32-s3-rmt-esp-idf-5**
+**this codebase now tests the fix in the fastled branch, see pull request https://github.com/FastLED/FastLED/pull/1652 which links in the fix at https://github.com/FastLED/FastLED/tree/fix-esp32-s3-rmt-esp-idf-5**
 
 This is what you'll need to do to test this repo:
 
