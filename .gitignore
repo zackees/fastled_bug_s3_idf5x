@@ -36,3 +36,6 @@
 .vscode/launch.json
 **/__pycache__
 .aider*
+
+!.aider.conf.yml
+!.aiderignore
