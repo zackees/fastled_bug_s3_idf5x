@@ -16,8 +16,5 @@ Now you should see that your project compiles fine. If the dependencies weren't 
   6. Hit the right arrow (see picture above) which will upload the firmware to your s3 device.
   7. Verify that it works (or doesn't) and report back to here, tagging me with the @zackees symbol so that i get a notification.
 
-Also please ping this pull request and mention that this change does infact work on a real hardware device.
 
-https://github.com/FastLED/FastLED/pull/1652
-  
   
