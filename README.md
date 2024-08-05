@@ -1,4 +1,6 @@
-Okay, I've created a fix in a branch. This is what you'll need to do to test it:
+Contains test code to reproduce the S3 RMT issue with FastLED. See issue https://github.com/FastLED/FastLED/pull/1652
+
+This is what you'll need to do to test this repo:
 
   1. Install VSCode
   2. Open up the extensions panel and install platformio
