@@ -1,4 +1,8 @@
-Contains test code to reproduce the S3 RMT issue with FastLED. See issue https://github.com/FastLED/FastLED/pull/1652
+Contains test code to reproduce the S3 RMT issue with FastLED.
+
+See issue https://github.com/FastLED/FastLED/pull/1652
+
+**this codebase now tests the fix in the fastled branch**
 
 This is what you'll need to do to test this repo:
 
